@@ -1,0 +1,5 @@
+# Build artifacts
+build/
+*.bin
+*.elf
+.DS_Store
