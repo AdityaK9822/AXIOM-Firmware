@@ -1,0 +1,37 @@
+AXIOM Firmware — Proprietary License
+Copyright (c) 2026 Aditya Kadam. All rights reserved.
+
+This software and associated files (the "Software") are the proprietary and
+confidential property of the copyright holder. Possession of a copy does not
+transfer any ownership or license rights.
+
+1. NO GRANT OF RIGHTS
+   No permission is granted to any person or entity to use, copy, modify, merge,
+   publish, distribute, sublicense, sell, or create derivative works of the
+   Software, in whole or in part, without the prior express written permission of
+   the copyright holder.
+
+2. NO REDISTRIBUTION
+   The Software may not be redistributed, published, or disclosed to any third
+   party in source or binary form without prior written permission.
+
+3. AUTHORIZED USE ONLY
+   The Software includes wireless network capabilities (including packet capture,
+   PMKID collection, and deauthentication detection) intended solely for use on
+   networks and devices that the user owns or has explicit written authorization
+   to test. Any unauthorized use is strictly prohibited and may be illegal. The
+   user is solely responsible for compliance with all applicable laws and
+   regulations.
+
+4. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+5. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+   OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+   FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+   IN THE SOFTWARE.
+
+For licensing inquiries, contact the copyright holder.
